@@ -1,1 +1,7 @@
-# Database_Homework
+姓名：甘若宏 学号：2019141460189
+
+实现了p0_starter.h头文件所要求的函数。
+
+main中的test函数测试了RowMatrix类中的GetRowCount,GetColumnCount,GetElement,SetElement,FillFrom成员函数。以及RowMatrixOperations类中的Add,Mutiply,GEMM成员函数，并在该类下添加了两个用于打印矩阵的函数。
+
+具体测试结果展示在截图中。
